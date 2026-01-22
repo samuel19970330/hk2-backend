@@ -14,6 +14,7 @@
     "exclude": [
         "node_modules",
         "seed.ts",
-        "create_db.ts"
+        "create_db.ts",
+        "reset-db.ts"
     ]
 }
